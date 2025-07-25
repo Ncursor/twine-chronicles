@@ -1,8 +1,13 @@
 :: StoryData
 {
+	"ifid":"5E6B9220-3874-4F31-870C-A71588C16A89",
 	"format": "SugarCube",
-	"format-version": "2.30.0",
+	"format-version": "2.35.0",
 	"start": "Menu"
 }
 
+:: StoryTitle
+Kagan Chronicles
+
 :: Menu
+<h1>Kagan Chronicles</hi>

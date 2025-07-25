@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "twine",
+			"flags": [],
+			"problemMatcher": [],
+			"label": "twine: Build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "twine",
+			"flags": [
+				"test"
+			],
+			"problemMatcher": [],
+			"label": "twine: Build (test mode)"
+		}
+	]
+}
