@@ -1,0 +1,15 @@
+body {
+    font-family:'Garamond', serif;
+}
+
+.AutoSize {
+    margin: auto;
+    max-width: auto;
+}
+.Title {
+    max-height: 25%;
+}
+
+.AutoText {
+    font-size: 2rem;
+}

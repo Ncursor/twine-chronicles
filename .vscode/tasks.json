@@ -18,6 +18,16 @@
 			],
 			"problemMatcher": [],
 			"label": "twine: Build (test mode)"
+		},
+		{
+			"type": "twine",
+			"flags": [],
+			"problemMatcher": [],
+			"label": "twine: Build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
 		}
 	]
 }

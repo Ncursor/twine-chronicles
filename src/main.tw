@@ -10,4 +10,10 @@
 Kagan Chronicles
 
 :: Menu
-<h1>Kagan Chronicles</hi>
+<div class = "Title">
+	<h1 align=center class = "AutoText">Kagan Chronicles</h1>
+</div>
+
+<p align=center>
+	[[MainStory]]
+</p>
